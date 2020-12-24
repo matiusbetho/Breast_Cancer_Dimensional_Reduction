@@ -1,10 +1,12 @@
-# Breast_Cancer_Dimensional_Reduction
-Dimensional reduction for Breast cancer dataset, using 
+# Breast_Cancer_Classification
 
---PCA, 
+Open with google colaboratory:
 
---LDA 
+PCA ==> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Oz-art/Breast_Cancer_Classification/blob/master/PCA_with_NN.ipynb)
 
---FA 
+LDA ==> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Oz-art/Breast_Cancer_Classification/blob/master/LDA_with_NN.ipynb)
 
-After dimensional reduction, data set is classified using Neural Networkis classified
+FA ==> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Oz-art/Breast_Cancer_Classification/blob/master/FA_with_NN.ipynb)
+
+Laporan tugas terdapat pada file "Laporan.pdf" pada direktori ini.
+Terimakasih. 
